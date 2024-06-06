@@ -3,12 +3,12 @@ import React from "react";
 function Footer(){
     
     return(
-        <div>
+        <footer>
 
 
 
             <p > copyright {date}</p>
-        </div>
+        </footer>
     );
 }
 
